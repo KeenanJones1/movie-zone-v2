@@ -1,21 +1,24 @@
-# project-skeleton
-Skeletion for all future projects using Docker
+# README
 
-# Dev Skeleton
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-This is a starter template for all my dev projects using Docker, Python, and Node.js.
+Things you may want to cover:
 
-## Usage
+* Ruby version
 
-1. Clone this template:
-git clone https://github.com/yourusername/project-skeleton my-new-project
-cd my-new-project
+* System dependencies
 
+* Configuration
 
-2. Build the Docker image:
-make build
+* Database creation
 
-3. Start the container:
-make start
+* Database initialization
 
-4. Start developing inside `/app` inside the container!
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
